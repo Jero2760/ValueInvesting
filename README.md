@@ -1,6 +1,6 @@
 # ValueInvesting
 For value investing dashboard
-Inspired by Sean Seah Book -- Gone Fishing with (Warren Buffett)[http://www.aceprofitsacademy.com/wp-content/uploads/2016/09/Gone-Fishing-with-Buffett.pdf]
+Inspired by Sean Seah Book -- Gone Fishing with (Warren Buffett)
 
 
 ## Stocks Input Scraping
